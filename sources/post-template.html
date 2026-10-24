@@ -1,0 +1,50 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:Fraunces;src:url(/home/claude/fonts/node_modules/@fontsource/fraunces/files/fraunces-latin-600-normal.woff2);font-weight:600}
+@font-face{font-family:Fraunces;src:url(/home/claude/fonts/node_modules/@fontsource/fraunces/files/fraunces-latin-700-normal.woff2);font-weight:700}
+@font-face{font-family:DS;src:url(/home/claude/fonts/node_modules/@fontsource/dancing-script/files/dancing-script-latin-700-normal.woff2);font-weight:700}
+@font-face{font-family:I;src:url(/home/claude/fonts/node_modules/@fontsource/inter/files/inter-latin-400-normal.woff2);font-weight:400}
+@font-face{font-family:I;src:url(/home/claude/fonts/node_modules/@fontsource/inter/files/inter-latin-500-normal.woff2);font-weight:500}
+@font-face{font-family:I;src:url(/home/claude/fonts/node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2);font-weight:600}
+:root{--foreground:#222;--primary:#d7263d;--background:#f7f5f2}
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;background:#f7f5f2;font-family:I,sans-serif;color:#222;padding:56px}
+.card{position:relative;height:100%;background:#fff;border:2px solid #ece8e3;border-radius:44px;overflow:hidden;padding:56px 60px 52px;display:flex;flex-direction:column}
+.card:before{content:"";position:absolute;right:-220px;top:-240px;width:760px;height:760px;border-radius:50%;background:radial-gradient(circle,rgba(215,38,61,.13),rgba(215,38,61,0) 65%)}
+.card:after{content:"";position:absolute;left:-200px;bottom:-260px;width:640px;height:640px;border-radius:50%;background:radial-gradient(circle,rgba(246,190,90,.18),rgba(246,190,90,0) 65%)}
+.top{position:relative;display:flex;align-items:center;gap:16px}
+.top svg{width:104px;height:65px}
+.word{font-family:DS;font-weight:700;font-size:62px;line-height:1}
+.word b{font-weight:700;color:#d7263d}
+.pill{position:relative;margin-top:52px;align-self:flex-start;display:flex;align-items:center;gap:12px;border:2px solid #ead9d9;background:#fdf6f6;border-radius:999px;padding:12px 26px;font-size:27px;color:#555;font-weight:500}
+h1{position:relative;margin-top:30px;font-family:Fraunces;font-weight:700;font-size:86px;line-height:1.04;letter-spacing:-2px;white-space:nowrap}
+h1 span{color:#d7263d;display:block}
+.sub{position:relative;margin-top:24px;font-size:31px;line-height:1.4;color:#666;max-width:860px}
+.list{position:relative;margin-top:36px;display:flex;flex-direction:column;gap:16px}
+.it{display:flex;align-items:center;gap:24px;background:#fff;border:2px solid #eee9e4;border-radius:26px;padding:14px 24px;box-shadow:0 14px 30px rgba(0,0,0,.06);width:600px}
+.it:nth-child(2){margin-left:120px}.it:nth-child(3){margin-left:50px}
+.ic{width:68px;height:68px;border-radius:20px;display:flex;align-items:center;justify-content:center}
+.ic svg{width:40px;height:40px;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.t{font-size:26px;font-weight:500}.p{font-family:Fraunces;font-weight:700;color:#d7263d;font-size:29px;margin-top:0}.p sup{font-size:18px}.l{font-size:20px;color:#888}
+.foot{position:relative;margin-top:auto;display:flex;align-items:center;justify-content:space-between}
+.cta{background:#d7263d;color:#fff;border-radius:999px;padding:24px 44px;font-size:36px;font-weight:600;display:flex;align-items:center;gap:14px}
+.url{font-family:Fraunces;font-weight:700;font-size:44px}
+</style></head><body><div class="card">
+<div class="top"><svg viewBox="150 140 900 560">
+<path fill="var(--foreground)" d="M185 255C215 205 275 175 360 175H620L570 255H365C330 255 302 267 302 292C302 315 326 326 372 337L485 365C575 387 620 430 620 500C620 610 525 685 385 685H170L220 605H390C450 605 485 583 485 550C485 525 460 513 410 501L300 475C215 455 165 405 165 345C165 313 172 282 185 255Z"/>
+<path fill="var(--primary)" d="M575 445L675 205C689 175 715 160 748 160C782 160 806 176 821 207L890 365L808 410L750 285L704 395Z"/>
+<path fill="var(--foreground)" d="M635 450L835 340C860 326 887 340 894 366L925 488C932 515 913 540 885 538L650 523C620 521 603 493 611 470C616 461 624 454 635 450Z"/>
+<path fill="#fff" d="M848 350C866 341 884 352 889 370L918 487C923 505 910 523 891 522L879 520L850 355Z"/>
+<ellipse cx="889" cy="435" rx="25" ry="92" fill="var(--foreground)"/><ellipse cx="889" cy="435" rx="10" ry="73" fill="#fff"/>
+<path fill="var(--foreground)" d="M674 526H724L745 596C748 608 739 618 727 618H704C694 618 687 611 684 602Z"/>
+<path fill="var(--primary)" d="M904 330L935 290L958 310L927 350Z"/><path fill="var(--primary)" d="M943 385L1000 350L1017 378L960 413Z"/><path fill="var(--primary)" d="M957 438H1030V470H957Z"/><path fill="var(--primary)" d="M946 500L1001 533L984 561L929 527Z"/><path fill="var(--primary)" d="M858 544L930 544L953 596H881Z"/>
+</svg><div class="word">Sen<b>Anos</b></div></div>
+<div class="pill"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#d7263d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>Partout au Sénégal · sans commission</div>
+<h1>Le marché de tout,<span>près de chez vous</span></h1>
+<p class="sub">Achetez et vendez entre particuliers : voitures, téléphones, logements, mode et bien plus.</p>
+<div class="list">
+<div class="it"><div class="ic" style="background:#e6f2f5"><svg viewBox="0 0 24 24" stroke="#1d8ba3"><rect x="6" y="2" width="12" height="20" rx="2.5"/><path d="M11 18h2"/></svg></div><div><div class="t">iPhone 13 Pro 128 Go</div><div class="p">230 000 <sup>F</sup></div><div class="l">Dakar</div></div></div>
+<div class="it"><div class="ic" style="background:#e8edfb"><svg viewBox="0 0 24 24" stroke="#3b5bdb"><path d="M3 10.5 12 3l9 7.5V20a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg></div><div><div class="t">Appartement à louer</div><div class="p">150 000 <sup>F</sup></div><div class="l">Rufisque</div></div></div>
+<div class="it"><div class="ic" style="background:#fdeee6"><svg viewBox="0 0 24 24" stroke="#e8590c"><circle cx="6" cy="17" r="3.5"/><circle cx="18" cy="17" r="3.5"/><path d="M6 17l4-8h5l3 8M10 9 8 5H6M15 9l-1-3h2"/></svg></div><div><div class="t">Vélo VTT 26 pouces</div><div class="p">75 000 <sup>F</sup></div><div class="l">Saint-Louis</div></div></div>
+</div>
+<div class="foot"><div class="cta"><span style="font-size:42px;line-height:1">+</span> Publier une annonce</div><div class="url">senanos.com</div></div>
+</div></body></html>
