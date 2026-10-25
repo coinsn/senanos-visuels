@@ -9,3 +9,8 @@
 | 2026-10-28 10:00 | Reel | « Payer avant de visiter ? » arnaque à l'avance sur visite | reels/2026-10/reel-avance-visite.mp4 | Programmé |
 | 2026-10-29 10:00 | Carrousel | 5 astuces photo pour vendre plus vite | posts/2026-10/c-photos-qui-vendent/ | Programmé |
 | 2026-10-30 18:00 | Reel | « Ce qui dort chez toi peut te rapporter de l'argent » (3 étapes, 0 commission) | reels/2026-10/reel-vide-ta-maison.mp4 | Programmé |
+| 2026-11-02 10:00 | Carrousel | Comment fixer le bon prix (annonces similaires, état honnête, marge de négo, extras, ajuster) | posts/2026-11/c-bon-prix/ | Programmé |
+| 2026-11-03 18:00 | Reel | Faux SMS « je t'ai envoyé l'argent par erreur » (vérifier son solde dans l'appli) | reels/2026-11/reel-faux-sms.mp4 | Programmé |
+| 2026-11-04 10:00 | Carrousel | 5 règles pour écrire une annonce qui attire | posts/2026-11/c-annonce-qui-attire/ | Programmé |
+| 2026-11-05 18:00 | Reel | Avant / après : l'annonce qui ne vend pas vs celle qui vend | reels/2026-11/reel-avant-apres-annonce.mp4 | Programmé |
+| 2026-11-06 10:00 | Post | Marque : « Tu vends depuis quelle ville ? » (engagement commentaires) — remplace « Bons plans » car senanos.com inaccessible ce jour-là | posts/2026-11/ta-ville.jpg | Programmé |
