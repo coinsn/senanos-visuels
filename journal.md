@@ -9,6 +9,7 @@
 | 2026-10-26 16:00 | Reel | Kit points noirs 3 étapes (vidéo IA du propriétaire, recadrée 9:16, sous-titres illisibles et carte prix remplacés, voix d'origine conservée, label IA) | reels/2026-10/reel-kit-points-noirs-voix.mp4 | Programmé |
 | 2026-10-26 18:20 | YouTube Short | Loulou qui danse (vidéo d'origine non modifiée, 1re publication YouTube @Sen_Anos, label IA) | reels/2026-10/reel-loulou-danse.mp4 | Programmé |
 | 2026-10-27 18:00 | Post | Bons plans semaine 44 (frigo Samsung, iPhone 13, endoscope, cours de maths, accessoires cheveux, gommage) | posts/2026-10/bons-plans-s44.jpg | Programmé |
+| 2026-10-27 19:45 | Reel IG + vidéo YouTube | Loulou dans l'ascenseur « Sa anos moy sa khaliss » (vidéo d'origine non modifiée, 16:9, label IA) | reels/2026-10/reel-loulou-ascenseur.mp4 | Programmé |
 | 2026-10-28 10:00 | Reel | « Payer avant de visiter ? » arnaque à l'avance sur visite | reels/2026-10/reel-avance-visite.mp4 | Programmé |
 | 2026-10-29 10:00 | Carrousel | 5 astuces photo pour vendre plus vite | posts/2026-10/c-photos-qui-vendent/ | Programmé |
 | 2026-10-30 18:00 | Reel | « Ce qui dort chez toi peut te rapporter de l'argent » (3 étapes, 0 commission) | reels/2026-10/reel-vide-ta-maison.mp4 | Programmé |
