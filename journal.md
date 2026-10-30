@@ -18,3 +18,14 @@
 | 2026-11-04 10:00 | Carrousel | 5 règles pour écrire une annonce qui attire | posts/2026-11/c-annonce-qui-attire/ | Programmé |
 | 2026-11-05 18:00 | Reel | Avant / après : l'annonce qui ne vend pas vs celle qui vend | reels/2026-11/reel-avant-apres-annonce.mp4 | Programmé |
 | 2026-11-06 10:00 | Post | Marque : « Tu vends depuis quelle ville ? » (engagement commentaires) — remplace « Bons plans » car senanos.com inaccessible ce jour-là | posts/2026-11/ta-ville.jpg | Programmé |
+
+## YouTube Shorts (reprise des Reels Instagram, fichiers inchangés)
+
+| Date (Paris) | Type | Sujet | Média | Statut |
+|---|---|---|---|---|
+| 2026-10-31 10:00 | YouTube Short | Un téléphone à vendre ? | reels/2026-10/reel-vendre-telephone.mp4 | Programmé |
+| 2026-10-31 14:00 | YouTube Short | Voici Loulou, la mascotte (label IA) | reels/2026-10/reel-loulou-mascotte.mp4 | Programmé |
+| 2026-10-31 18:00 | YouTube Short | Payer avant de visiter ? | reels/2026-10/reel-avance-visite.mp4 | Programmé |
+| 2026-11-01 10:00 | YouTube Short | Ce qui dort chez toi peut te rapporter de l'argent | reels/2026-10/reel-vide-ta-maison.mp4 | Programmé |
+| 2026-11-01 18:00 | YouTube Short | Loulou a trouvé le bon plan (label IA) | reels/2026-10/reel-loulou-bon-plan.mp4 | Programmé |
+| 2026-11-07 10:00 | YouTube Short | Kit points noirs 3 étapes (label IA) | reels/2026-10/reel-kit-points-noirs-voix.mp4 | Programmé |
