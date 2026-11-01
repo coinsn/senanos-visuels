@@ -16,7 +16,7 @@ sE=f'''
 {row('📍 Lieu public',.3)}{row('☀️ En journée',.6)}{row('👥 Accompagné·e',.9)}{row('🔍 Voir avant de payer',1.2)}</div>
 {CTA(18.5,23)}'''
 subsE=[[0,3.1,'Tu as trouvé un acheteur ou un vendeur ?'],[3.1,6.3,'Choisis un lieu public, avec du monde'],[6.3,9.3,'Donne rendez-vous en journée'],[9.3,12.3,'Viens avec quelqu’un de confiance'],[12.3,15.5,'Vérifie le produit avant de payer'],[15.5,18.5,'Envoie ça à quelqu’un qui achète en ligne'],[18.5,22,'Achète et vends en confiance sur senanos.com']]
-reel('reelE-rendez-vous',23,sE,subsE,seed=5,bell_from=15.5)
+if __name__=="__main__": reel('reelE-rendez-vous',23,sE,subsE,seed=5,bell_from=15.5)
 # Reel F : combien vaut ton téléphone d'occasion
 sF=f'''
 <div class="sc" data-s="0" data-e="3.2"><div style="font-size:150px" data-a="0" data-k="pop">📱</div><div {BIG} data-a=".2">Ton ancien<br>téléphone dort<br><span class="red">dans un tiroir ?</span></div></div>
@@ -28,4 +28,4 @@ sF=f'''
 <div class="sc" data-s="14.3" data-e="18.4"><div style="font-size:150px" data-a="0" data-k="pop">🔎</div><div class="fr" style="font-size:84px;line-height:1.1" data-a=".2">Ton vrai prix ?<br><span class="red">Compare les annonces<br>similaires</span></div><div style="font-size:42px;color:#555;margin-top:30px" data-a=".7">Même modèle, même état</div></div>
 {CTA(18.3,23)}'''
 subsF=[[0,3.1,'Un téléphone que tu n’utilises plus ?'],[3.1,5.7,'Quelqu’un le cherche peut-être'],[5.7,10.5,'Ces points font monter son prix'],[10.5,14.3,'Ceux-là le font baisser : sois honnête'],[14.3,18.3,'Regarde les annonces du même modèle'],[18.3,22,'Publie ton annonce, 0 commission']]
-reel('reelF-combien-vaut-telephone',23,sF,subsF,seed=6,bell_from=14.3)
+if __name__=="__main__": reel('reelF-combien-vaut-telephone',23,sF,subsF,seed=6,bell_from=14.3)
