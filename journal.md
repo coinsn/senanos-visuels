@@ -18,11 +18,16 @@
 | 2026-11-04 10:00 | Carrousel | 5 règles pour écrire une annonce qui attire | posts/2026-11/c-annonce-qui-attire/ | Programmé |
 | 2026-11-05 18:00 | Reel | Avant / après : l'annonce qui ne vend pas vs celle qui vend | reels/2026-11/reel-avant-apres-annonce.mp4 | Programmé |
 | 2026-11-06 10:00 | Post | Marque : « Tu vends depuis quelle ville ? » (engagement commentaires) — remplace « Bons plans » car senanos.com inaccessible ce jour-là | posts/2026-11/ta-ville.jpg | Programmé |
+| 2026-11-01 23:25 | Post | Bons plans du moment (vraies annonces relevées le 01/11 : Honda Lead Guédiawaye, iPhone 13 Pro Dakar, appartement Rufisque, VTT Saint-Louis, crème épilatoire et masque lèvres Tivaouane) — demandé par le propriétaire | posts/2026-11/bons-plans-01nov.jpg | Programmé |
+| 2026-11-07 18:00 | Reel | « Prix trop beau pour être vrai ? » (faux vendeur en voyage, acompte Wave, 3 signaux d'alerte) | reels/2026-11/reel-prix-trop-beau.mp4 | Programmé |
+| 2026-11-08 10:00 | Carrousel | Logement à louer : 5 règles pour une annonce qui rassure (bailleurs) | posts/2026-11/c-annonce-location/ | Programmé |
 | 2026-11-09 10:00 | Carrousel | Que vendre avant les fêtes de fin d'année (téléphones, tenues de fête, électroménager, consoles/jouets, déco/meubles) | posts/2026-11/c-que-vendre-fin-annee/ | Programmé |
 | 2026-11-10 18:00 | Reel | Rendez-vous de remise : 4 réflexes (lieu public, en journée, accompagné·e, vérifier avant de payer) | reels/2026-11/reel-rendez-vous-4-reflexes.mp4 | Programmé |
 | 2026-11-11 10:00 | Carrousel | Téléphone d'occasion : 5 vérifications avant de payer (écran, batterie, appels/caméra, compte déconnecté, IMEI) | posts/2026-11/c-verifier-telephone/ | Programmé |
 | 2026-11-12 18:00 | Reel | Combien vaut ton ancien téléphone ? (ce qui fait monter / baisser le prix, comparer les annonces) | reels/2026-11/reel-combien-vaut-telephone.mp4 | Programmé |
 | 2026-11-13 10:00 | Post | Marque : « Ce que tu vends, tu le gardes » (0 commission) — remplace « Bons plans » car senanos.com inaccessible depuis l'outil ce jour-là | posts/2026-11/zero-commission.jpg | Programmé |
+| 2026-11-14 18:00 | Reel | « Ta moto dort dans la cour ? » vendre sa moto en 3 étapes | reels/2026-11/reel-moto-a-vendre.mp4 | Programmé |
+| 2026-11-15 10:00 | Post | Engagement : « Ton prochain téléphone, neuf ou occasion ? » (réponse en commentaire) | posts/2026-11/neuf-ou-occasion.jpg | Programmé |
 
 ## YouTube Shorts (reprise des Reels Instagram, fichiers inchangés)
 
