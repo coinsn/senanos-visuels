@@ -18,6 +18,11 @@
 | 2026-11-04 10:00 | Carrousel | 5 règles pour écrire une annonce qui attire | posts/2026-11/c-annonce-qui-attire/ | Programmé |
 | 2026-11-05 18:00 | Reel | Avant / après : l'annonce qui ne vend pas vs celle qui vend | reels/2026-11/reel-avant-apres-annonce.mp4 | Programmé |
 | 2026-11-06 10:00 | Post | Marque : « Tu vends depuis quelle ville ? » (engagement commentaires) — remplace « Bons plans » car senanos.com inaccessible ce jour-là | posts/2026-11/ta-ville.jpg | Programmé |
+| 2026-11-09 10:00 | Carrousel | Que vendre avant les fêtes de fin d'année (téléphones, tenues de fête, électroménager, consoles/jouets, déco/meubles) | posts/2026-11/c-que-vendre-fin-annee/ | Programmé |
+| 2026-11-10 18:00 | Reel | Rendez-vous de remise : 4 réflexes (lieu public, en journée, accompagné·e, vérifier avant de payer) | reels/2026-11/reel-rendez-vous-4-reflexes.mp4 | Programmé |
+| 2026-11-11 10:00 | Carrousel | Téléphone d'occasion : 5 vérifications avant de payer (écran, batterie, appels/caméra, compte déconnecté, IMEI) | posts/2026-11/c-verifier-telephone/ | Programmé |
+| 2026-11-12 18:00 | Reel | Combien vaut ton ancien téléphone ? (ce qui fait monter / baisser le prix, comparer les annonces) | reels/2026-11/reel-combien-vaut-telephone.mp4 | Programmé |
+| 2026-11-13 10:00 | Post | Marque : « Ce que tu vends, tu le gardes » (0 commission) — remplace « Bons plans » car senanos.com inaccessible depuis l'outil ce jour-là | posts/2026-11/zero-commission.jpg | Programmé |
 
 ## YouTube Shorts (reprise des Reels Instagram, fichiers inchangés)
 
