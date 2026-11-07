@@ -20,16 +20,16 @@
 | 2026-11-06 10:00 | Post | Marque : « Tu vends depuis quelle ville ? » (engagement commentaires) — remplace « Bons plans » car senanos.com inaccessible ce jour-là | posts/2026-11/ta-ville.jpg | Programmé |
 | 2026-11-01 23:25 | Post | Bons plans du moment (vraies annonces relevées le 01/11 : Honda Lead Guédiawaye, iPhone 13 Pro Dakar, appartement Rufisque, VTT Saint-Louis, crème épilatoire et masque lèvres Tivaouane) — demandé par le propriétaire | posts/2026-11/bons-plans-01nov.jpg | Programmé |
 | 2026-11-07 18:00 | Reel | « Prix trop beau pour être vrai ? » (faux vendeur en voyage, acompte Wave, 3 signaux d'alerte) | reels/2026-11/reel-prix-trop-beau.mp4 | Programmé |
-| 2026-11-08 10:00 | Carrousel | Logement à louer : 5 règles pour une annonce qui rassure (bailleurs) | posts/2026-11/c-annonce-location/ | Programmé |
+| 2026-11-16 10:00 | Carrousel | Logement à louer : 5 règles pour une annonce qui rassure (bailleurs) | posts/2026-11/c-annonce-location/ | Programmé |
 | 2026-11-09 10:00 | Carrousel | Que vendre avant les fêtes de fin d'année (téléphones, tenues de fête, électroménager, consoles/jouets, déco/meubles) | posts/2026-11/c-que-vendre-fin-annee/ | Programmé |
-| 2026-11-10 18:00 | Reel | Rendez-vous de remise : 4 réflexes (lieu public, en journée, accompagné·e, vérifier avant de payer) | reels/2026-11/reel-rendez-vous-4-reflexes.mp4 | Programmé |
+| 2026-11-19 18:00 | Reel | Rendez-vous de remise : 4 réflexes (lieu public, en journée, accompagné·e, vérifier avant de payer) | reels/2026-11/reel-rendez-vous-4-reflexes.mp4 | Programmé |
 | 2026-11-11 10:00 | Carrousel | Téléphone d'occasion : 5 vérifications avant de payer (écran, batterie, appels/caméra, compte déconnecté, IMEI) | posts/2026-11/c-verifier-telephone/ | Programmé |
 | 2026-11-12 18:00 | Reel | Combien vaut ton ancien téléphone ? (ce qui fait monter / baisser le prix, comparer les annonces) | reels/2026-11/reel-combien-vaut-telephone.mp4 | Programmé |
 | 2026-11-13 10:00 | Post | Marque : « Ce que tu vends, tu le gardes » (0 commission) — remplace « Bons plans » car senanos.com inaccessible depuis l'outil ce jour-là | posts/2026-11/zero-commission.jpg | Programmé |
 | 2026-11-14 18:00 | Reel | « Ta moto dort dans la cour ? » vendre sa moto en 3 étapes | reels/2026-11/reel-moto-a-vendre.mp4 | Programmé |
 | 2026-11-15 10:00 | Post | Engagement : « Ton prochain téléphone, neuf ou occasion ? » (réponse en commentaire) | posts/2026-11/neuf-ou-occasion.jpg | Programmé |
-| 2026-11-16 18:00 | Reel | Loulou « Jël ko foto, def sa prix, jaay ko ci SenAnos » (vidéo IA du propriétaire, plan 2, sous-titres wolof/français, carte de fin, label IA) | reels/2026-11/reel-loulou-jel-ko-foto.mp4 | Programmé |
-| 2026-11-19 18:00 | Reel | Loulou danse au marché « Amul commission ! Sa anos moy sa khaliss ! » (vidéo IA du propriétaire, plan 3, label IA) | reels/2026-11/reel-loulou-amul-commission.mp4 | Programmé |
+| 2026-11-08 18:00 | Reel | Loulou « Jël ko foto, def sa prix, jaay ko ci SenAnos » (vidéo IA du propriétaire, plan 2, sous-titres wolof/français, carte de fin, label IA) | reels/2026-11/reel-loulou-jel-ko-foto.mp4 | Programmé |
+| 2026-11-10 18:00 | Reel | Loulou danse au marché « Amul commission ! Sa anos moy sa khaliss ! » (vidéo IA du propriétaire, plan 3, label IA) | reels/2026-11/reel-loulou-amul-commission.mp4 | Programmé |
 
 ## YouTube Shorts (reprise des Reels Instagram, fichiers inchangés)
 
@@ -41,3 +41,5 @@
 | 2026-11-01 10:00 | YouTube Short | Ce qui dort chez toi peut te rapporter de l'argent | reels/2026-10/reel-vide-ta-maison.mp4 | Programmé |
 | 2026-11-01 18:00 | YouTube Short | Loulou a trouvé le bon plan (label IA) | reels/2026-10/reel-loulou-bon-plan.mp4 | Programmé |
 | 2026-11-07 10:00 | YouTube Short | Kit points noirs 3 étapes (label IA) | reels/2026-10/reel-kit-points-noirs-voix.mp4 | Programmé |
+
+> 07/11 : Reels Loulou avancés à la demande du propriétaire (8 et 10 nov.) ; carrousel location déplacé au 16/11 10 h, Reel rendez-vous au 19/11 18 h.
