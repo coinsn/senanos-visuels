@@ -28,6 +28,8 @@
 | 2026-11-13 10:00 | Post | Marque : « Ce que tu vends, tu le gardes » (0 commission) — remplace « Bons plans » car senanos.com inaccessible depuis l'outil ce jour-là | posts/2026-11/zero-commission.jpg | Programmé |
 | 2026-11-14 18:00 | Reel | « Ta moto dort dans la cour ? » vendre sa moto en 3 étapes | reels/2026-11/reel-moto-a-vendre.mp4 | Programmé |
 | 2026-11-15 10:00 | Post | Engagement : « Ton prochain téléphone, neuf ou occasion ? » (réponse en commentaire) | posts/2026-11/neuf-ou-occasion.jpg | Programmé |
+| 2026-11-16 18:00 | Reel | Loulou « Jël ko foto, def sa prix, jaay ko ci SenAnos » (vidéo IA du propriétaire, plan 2, sous-titres wolof/français, carte de fin, label IA) | reels/2026-11/reel-loulou-jel-ko-foto.mp4 | Programmé |
+| 2026-11-19 18:00 | Reel | Loulou danse au marché « Amul commission ! Sa anos moy sa khaliss ! » (vidéo IA du propriétaire, plan 3, label IA) | reels/2026-11/reel-loulou-amul-commission.mp4 | Programmé |
 
 ## YouTube Shorts (reprise des Reels Instagram, fichiers inchangés)
 
