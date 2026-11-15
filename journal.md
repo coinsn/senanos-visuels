@@ -44,3 +44,4 @@
 
 > 07/11 : Reels Loulou avancés à la demande du propriétaire (8 et 10 nov.) ; carrousel location déplacé au 16/11 10 h, Reel rendez-vous au 19/11 18 h.
 > 07/11 22 h : à la demande du propriétaire, les 2 Reels Loulou sont publiés le soir même (22 h 30 et 23 h). Les 8 et 10 nov. n'ont plus de publication Instagram.
+> 15/11 (bilan hebdo) : semaine cible 16–22 nov. (2 publications déjà programmées : 16/11 carrousel location, 19/11 Reel rendez-vous). Aucune nouvelle publication créée : quota Metricool de novembre déjà dépassé (22 publications IG + YouTube programmées/publiées sur le mois pour 20 max). Reprise prévue à partir du 1er décembre.
