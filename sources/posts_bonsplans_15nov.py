@@ -12,6 +12,6 @@ p=f'''<div class="glow" style="width:800px;height:800px;right:-260px;top:-300px"
 <div class="pill" style="align-self:flex-start;margin-top:34px">👀 En ce moment sur SenAnos</div>
 <div class="fr" style="font-size:78px;line-height:1.04;margin-top:20px">Les bons plans<br><span class="red">près de chez toi</span></div>
 <div style="display:flex;flex-wrap:wrap;gap:30px;margin-top:36px">{cards}</div>
-<div style="font-size:34px;color:#555;margin-top:44px;text-align:center">Et toi, qu’est-ce que tu vends ? <b>0 commission</b> sur ta vente.</div>
+<div style="font-size:34px;color:#555;margin-top:44px;text-align:center">Et toi, qu’est-ce que tu vends ?<br><b>0 commission</b> sur ta vente.</div>
 <div style="margin-top:auto;display:flex;align-items:center;justify-content:space-between"><span class="cta" style="font-size:34px;padding:22px 40px">Publie ton annonce</span><span class="fr" style="font-size:40px">senanos.com</span></div></div>'''
 shoot_pages([p],W,H,'bp')
