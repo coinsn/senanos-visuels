@@ -74,6 +74,14 @@ jobs:
                       vus.add(cle)
                       photos.append(u)
               print(ident, ':', len(photos), 'photo(s) repérée(s)')
+              # La page montre aussi des annonces similaires : on ne garde que les photos
+              # envoyées en même temps que la première (même lot, à 2 minutes près).
+              def lot(u):
+                  m = re.search(r'/annonces/(\d{10,})-', u)
+                  return int(m.group(1)) if m else None
+              if photos and lot(photos[0]) is not None:
+                  base = lot(photos[0])
+                  photos = [u for u in photos if lot(u) is not None and abs(lot(u) - base) <= 120000]
               if not photos:
                   print('Aucune photo trouvée :', url)
                   continue
