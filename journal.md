@@ -55,3 +55,4 @@
 > 16/11 : série de 10 Reels « une annonce, plusieurs photos » (demande du propriétaire), publiés via Windsor, un par jour à 12 h 30 : planning dans reels/2026-11/annonces/planning.json. Honda Lead publié le 16/11 (media id 18338856451302786). Suite du 17 au 25/11 : iPhone 13 simple, terrain Mboro, appartement Rufisque, verger manguiers, endoscope, terre agricole Mbour, crème épilatoire, terrain RN2, verger d'agrumes.
 > 16/11 midi : à la demande du propriétaire, les 9 autres Reels « une annonce » ont tous été publiés le 16/11 via Windsor (voir planning.json, tout est « publié »). Le rappel du 17/11 12 h 30 n’a plus rien à publier.
 > 18/11 : à la demande du propriétaire, 11 vidéos republiées en Story via Windsor (Reel bons plans du 16/11 + les 10 Reels « une annonce »). Visibles 24 h.
+> 19/11 18 h 20 : Reel rendez-vous (4 réflexes + annonce du jour verger de manguiers) échoué sur Metricool (limite du compte), publié via Windsor (media id 18034165742687058).
