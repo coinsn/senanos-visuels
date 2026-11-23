@@ -94,7 +94,8 @@ def reel(name,D,scenes_html,subs,seed,bell_from):
         for i in range(int(30*D)):
             pg.evaluate(f'render({i/30})'); pg.screenshot(path=f'fr_{name}/f{i:04d}.jpg',type='jpeg',quality=92)
         b.close()
-    rhythm(f'{name}.wav',D,bpm=112+seed*4,seed=seed,bell_from=bell_from)
+    from mbalax import mbalax
+    mbalax(f'{name}.wav',D,seed=seed)  # bande-son originale style mbalax ; changer seed à chaque Reel
     subprocess.run(['ffmpeg','-y','-loglevel','error','-framerate','30','-i',f'fr_{name}/f%04d.jpg','-i',f'{name}.wav','-c:v','libx264','-preset','veryfast','-crf','20','-pix_fmt','yuv420p','-c:a','aac','-b:a','192k','-shortest','-movflags','+faststart',f'{name}.mp4'],check=True)
     from PIL import Image
     idx=[int(30*x) for x in np.linspace(1,D-1,6)]
